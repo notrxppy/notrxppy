@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/pratham32092678" target="blank"><img src="https://img.shields.io/twitter/follow/pratham32092678?logo=twitter&style=for-the-badge" alt="pratham32092678" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
-- 🔭 I’m currently working as a **Freelancer**
+-  I’m currently working as a <b>Freelancer</b>
 
-- 🌱 I’m currently learning **BSCIT**
+-  I’m currently learning **BSCIT**
 
-- 💬 Ask me about **Html,java,css,etc**
+-  Ask me about **Html,java,css,etc**
 
-- 📫 How to reach me **reppyop@gmail.com**
+-  How to reach me **reppyop@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notrxppy&show_icons=true&locale=en" alt="notrxppy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notrxppy&" alt="notrxppy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notrxppy&" alt="notrxppy"/></p>
