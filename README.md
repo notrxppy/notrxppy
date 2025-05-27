@@ -2,7 +2,7 @@
 <h3 align="center">Developer / Freelancer</h3>
 
 <p align="left"> <a href="https://twitter.com/pratham32092678" target="blank"><img src="https://img.shields.io/twitter/follow/pratham32092678?logo=twitter&style=for-the-badge" alt="pratham32092678" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
+
 -  I’m currently working as a <b>Freelancer</b>
 
 -  I’m currently learning **BSCIT**
