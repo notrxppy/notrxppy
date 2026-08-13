@@ -1,7 +1,6 @@
 <div align="center">
 
 # Pratham Kandarkar 
-## 🔰 WannaBeDev 
 Freelancer Web Developer  
 <br>
 Currently Pursuing B.Sc in IT  
