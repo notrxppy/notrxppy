@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pratham Kandarkar 
+# Pratham  
 Freelancer Web Developer  
 <br>
 Currently Pursuing B.Sc in IT  
