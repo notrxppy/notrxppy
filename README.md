@@ -3,7 +3,7 @@
 # Pratham  
 Freelancer Web Developer  
 <br>
-Currently Pursuing B.Sc in IT  
+ B.Sc in IT  
 <br>
 
 ##  Socials
